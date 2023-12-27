@@ -5,7 +5,7 @@ Men's Salon Beauty Category
 This is a web based application developed for Health and Lifestyle based website in india
 
 This web based Health and Lifestyle application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-Project Link - [https://sandeep2897.github.io/frtproject1/about.html](https://wonderful-river-078f0ba00.4.azurestaticapps.net/)
+Project Link - (https://wonderful-river-078f0ba00.4.azurestaticapps.net/)
 
 Azure technologies used for Project:
 Azure Virtual Machines
