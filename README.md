@@ -2,22 +2,22 @@
 
 Men's Salon Beauty Category
 
-This is a web based application developed for healthrelated based website in india
+This is a web based application developed for Health and Lifestyle based website in india
 
-This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-Project Link - https://sandeep2897.github.io/frtproject1/about.html
+This web based Health and Lifestyle application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+Project Link - [https://sandeep2897.github.io/frtproject1/about.html](https://wonderful-river-078f0ba00.4.azurestaticapps.net/)
 
 Azure technologies used for Project:
-Azure Virtual Machine
+Azure Virtual Machines
 Static web apps
 Health bot
-Storage Account
+Storage Accounts
 
 Features and Functionalities:
 Interactive and responsive UI.
 Has many graphical and visual innovative effects.
 Have an aesthetically pleasing visual design and architecture.
-Has collection of many web pages including Home, About Us, Contact, Menu, Salon topics Lifestyle & health  related information etc.
+Has collection of many web pages including Home, About Us, Contact, Menu, Salon topics Lifestyle & health related information etc.
 User can know about Men's Salon information through this website.
 Included the feedback Survey form to increase the scope of improvement.
 
